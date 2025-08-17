@@ -1,4 +1,4 @@
-# 🚀 Ultra-Fast Port Scanner
+# 🚀 UltraScan-Fast Port Scanner
 
 [![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -7,7 +7,7 @@
 
 > **The Next-Generation Port Scanner with Adaptive Intelligence**
 
-Ultra-Fast Port Scanner is a high-performance, intelligent port scanning tool that combines blazing speed with adaptive learning capabilities. Built in Python with advanced threading and network optimization, it learns from your network conditions and automatically adjusts for optimal performance.
+UltraScan Fast Port Scanner is a high-performance, intelligent port scanning tool that combines blazing speed with adaptive learning capabilities. Built in Python with advanced threading and network optimization, it learns from your network conditions and automatically adjusts for optimal performance.
 
 ## 🌟 Features
 
@@ -49,14 +49,14 @@ Ultra-Fast Port Scanner is a high-performance, intelligent port scanning tool th
 
 ### Install from Source
 ```bash
-git clone https://github.com/yourusername/ultra-fast-port-scanner.git
+git clone https://github.com/nontawattalk/ultrascan.git
 cd ultra-fast-port-scanner
 chmod +x ultra_scanner.py
 ```
 
 ### Quick Install Script
 ```bash
-curl -sSL https://raw.githubusercontent.com/yourusername/ultra-fast-port-scanner/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/nontawattalk/ultrascan/main/install.sh | bash
 ```
 
 ### Docker Installation
@@ -201,7 +201,7 @@ Open ports:
 
 ### Feature Comparison
 
-| Feature | Ultra-Fast | RustScan | Masscan | Nmap |
+| Feature | UltraScan | RustScan | Masscan | Nmap |
 |---------|------------|----------|---------|------|
 | **Speed** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
 | **Adaptive Learning** | ✅ | ❌ | ❌ | ❌ |
