@@ -1,4 +1,3 @@
-n
 # 🚀 Ultra-Fast Port Scanner
 
 [![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)](https://python.org)
@@ -366,19 +365,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📡 Support
 
-- 📧 **Email**: support@ultra-scanner.dev
-- 🗬️ **Discord**: [Join our community](https://discord.gg/ultra-scanner)
-- 🗐 **Issues**: [GitHub Issues](https://github.com/yourusername/ultra-fast-port-scanner/issues)
-- 📖 **Documentation**: [Full Docs](https://ultra-scanner.dev/docs)
-
+- 📧 **Email**: info@tunableproject.com
+- 🗐 **Issues**: [GitHub Issues](https://github.com/nontawattalk/Ultrascan/issues)
+- 📖 **Documentation**: [Full in github/nontawattalk/Ultrascan
 ---
 
 <div align="center">
 
-**⭐ Star this project if you find it useful! ⭐**
-
-[Report Bug](https://github.com/yourusername/ultra-fast-port-scanner/issues) • [Request Feature](https://github.com/yourusername/ultra-fast-port-scanner/issues) • [Documentation](https://ultra-scanner.dev)
-
-Made with ❤️ by the Ultra-Fast Scanner Team
+Made with ❤️ by the UltraScan Team
 
 </div>
