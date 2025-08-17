@@ -367,7 +367,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - 📧 **Email**: info@tunableproject.com
 - 🗐 **Issues**: [GitHub Issues](https://github.com/nontawattalk/Ultrascan/issues)
-- 📖 **Documentation**: [Full in (https://github.com/nontawattalk/Ultrascan/blob/main/ultra_scanner_results.md)]
+- 📖 **Documentation**: [Full in (https://github.com/nontawattalk/Ultrascan/wiki/)]
 ---
 
 <div align="center">
